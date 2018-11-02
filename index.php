@@ -26,6 +26,7 @@
     <h2>We here!</h2>
 <<<<<<< HEAD
     <h3>Dogs</h3>
+    <h3>Cats</h3>
 =======
 
 >>>>>>> 8d1bcb6981f6d2051b48904d69ade6e22002bde0
