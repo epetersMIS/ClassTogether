@@ -4,6 +4,9 @@
     body {
         background-color: teal;
     }
+    #no {
+        color: green;
+    }
     </style>
 <head>
     <meta charset="UTF-8">
@@ -12,7 +15,9 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>We here!</h2>
-
+    <h2 id="no">We here!</h2>
+<?php
+    var_dump($_COOKIE);
+?>
 </body>
 </html>
