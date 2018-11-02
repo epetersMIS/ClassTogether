@@ -6,6 +6,7 @@
     }
     #no {
         color: green;
+        font-size: 100px;
     }
     </style>
 <head>
